@@ -2,6 +2,7 @@ Pod::Spec.new do |s|
 	s.name = 'JNPieLoader'
 	s.version = '0.1.0'
 	s.summary = 'A pie loader for iOS'
+	s.homepage = 'https://github.com/johnomarkid/JNPieLoader'
 
 	s.authors = {
 		'azzikid' => 'john@bitfountain.io',
